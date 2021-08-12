@@ -7,6 +7,14 @@
       "lastname": "Alvarez",
       "imageUrl":"https://avatars.githubusercontent.com/u/18540272?v=4",
       "id": 1
+    },
+    {
+      "email": "palenzuelaomar@gmail.com",
+      "password": "$2a$10$YvK1ULJYy6OpKl26eaU2wex3T7xK6VcKoZib7i3RFb8UZMNMbd9zK",
+      "name": "Omar",
+      "lastname": "Palenzuela",
+      "imageUrl": "https://res.cloudinary.com/dfdibw2mk/image/upload/v1628738170/zkg2tk2fstmpg42hxwwg.png",
+      "id": 2
     }
   ],
   "statitics": [
@@ -17,6 +25,14 @@
       "hours": 2,
       "userId": 1,
       "id": 1
+    },
+    {
+      "totalReponse": 20,
+      "successResponses": 15,
+      "failedResponses": 5,
+      "hours": 2,
+      "userId": 2,
+      "id": 2
     }
   ]
 }
