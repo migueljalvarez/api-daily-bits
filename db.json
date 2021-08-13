@@ -5,7 +5,7 @@
       "password": "$2a$10$sgMXww6bRHK6DaCALwgZ9.//2DJ.RYWsRPy6OOwzEoYP.LSLV2IAO",
       "name": "Miguel",
       "lastname": "Alvarez",
-      "imageUrl":"https://avatars.githubusercontent.com/u/18540272?v=4",
+      "imageUrl": "https://avatars.githubusercontent.com/u/18540272?v=4",
       "id": 1
     },
     {
@@ -19,6 +19,7 @@
   ],
   "statitics": [
     {
+      "startTime": 1628873224654,
       "totalResponse": 20,
       "successResponses": 15,
       "failedResponses": 5,
@@ -27,12 +28,41 @@
       "id": 1
     },
     {
+      "startTime": 1628873224654,
       "totalResponse": 20,
       "successResponses": 15,
       "failedResponses": 5,
       "hours": 2,
       "userId": 2,
       "id": 2
+    }
+  ],
+  "progress": [
+    {
+      "htmlComplete": true,
+      "cssComplete": false,
+      "jsComplete": false,
+      "htmlLife": 4,
+      "cssLife": 4,
+      "jsLife": 4,
+      "htmlProgress": 100,
+      "cssProgreess": 0,
+      "jsProgress": 0,
+      "userId": 1,
+      "id":1
+    },
+    {
+      "htmlComplete": false,
+      "cssComplete": false,
+      "jsComplete": false,
+      "htmlLife": 4,
+      "cssLife": 4,
+      "jsLife": 4,
+      "htmlProgress": 0,
+      "cssProgreess": 0,
+      "jsProgress": 50,
+      "userId": 2,
+      "id":2
     }
   ]
 }
