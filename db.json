@@ -19,7 +19,7 @@
   ],
   "statitics": [
     {
-      "totalReponse": 20,
+      "totalResponse": 20,
       "successResponses": 15,
       "failedResponses": 5,
       "hours": 2,
@@ -27,7 +27,7 @@
       "id": 1
     },
     {
-      "totalReponse": 20,
+      "totalResponse": 20,
       "successResponses": 15,
       "failedResponses": 5,
       "hours": 2,
