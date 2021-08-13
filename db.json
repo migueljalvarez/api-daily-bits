@@ -19,7 +19,7 @@
   ],
   "statitics": [
     {
-      "startTime": 1628873224654,
+      
       "totalResponse": 20,
       "successResponses": 15,
       "failedResponses": 5,
@@ -28,7 +28,6 @@
       "id": 1
     },
     {
-      "startTime": 1628873224654,
       "totalResponse": 20,
       "successResponses": 15,
       "failedResponses": 5,
@@ -39,6 +38,7 @@
   ],
   "progress": [
     {
+      "startTime": 1628873224654,
       "htmlComplete": true,
       "cssComplete": false,
       "jsComplete": false,
@@ -52,6 +52,7 @@
       "id":1
     },
     {
+      "startTime": 1628873224654,
       "htmlComplete": false,
       "cssComplete": false,
       "jsComplete": false,
