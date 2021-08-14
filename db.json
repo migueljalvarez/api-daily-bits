@@ -46,8 +46,8 @@
       "cssLife": 4,
       "jsLife": 4,
       "htmlProgress": 100,
-      "cssProgress": 0,
-      "jsProgress": 0,
+      "cssProgress": 100,
+      "jsProgress": 50,
       "userId": 1,
       "id":1
     },
